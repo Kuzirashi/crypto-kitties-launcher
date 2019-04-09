@@ -6,6 +6,8 @@ This package contains a command-line program to check how much CO2 has CryptoKit
 
 ## Install
 
+Clone project and install dependencies.
+
 ```
 npm install
 ```
