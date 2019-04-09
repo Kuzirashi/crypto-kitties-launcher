@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/Kuzirashi/crypto-kitties-launcher.svg?branch=master)](https://travis-ci.com/Kuzirashi/crypto-kitties-launcher)
+
 # Kitties Launcher
 
 This package contains a command-line program to check how much CO2 has CryptoKitty transfer consumed :)
